@@ -1,0 +1,161 @@
+/* ===============================
+  GLOBAL / RESET
+  =============================== */
+* {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+
+/* ===============================
+  BASE PAGE STYLES
+  =============================== */
+body {
+ /* font-family, background, text color */
+}
+
+
+/* ===============================
+  NAVIGATION
+  =============================== */
+.site-nav {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ /* background-color, padding */
+}
+
+
+.nav-logo {
+ /* font-size, font-weight */
+}
+
+
+.nav-links {
+ display: flex;
+ gap: 15px;
+}
+
+
+.nav-links a {
+ /* link / button styles */
+}
+
+
+.nav-links a:hover {
+ /* hover effects */
+}
+
+
+/* ===============================
+  HERO SECTION
+  =============================== */
+.hero {
+ /* background, padding, alignment */
+}
+
+
+.hero h1,
+.hero h2 {
+ /* heading styles */
+}
+
+
+.hero p {
+ /* subtitle text */
+}
+
+
+/* ===============================
+  MAIN CONTENT
+  =============================== */
+#main-content {
+ /* width, padding, margin */
+}
+
+
+/* ===============================
+  SECTIONS
+  =============================== */
+.list-container {
+ /* background, spacing, layout */
+}
+
+
+/* ===============================
+  IMAGES
+  =============================== */
+img {
+ /* borders, padding, shadows */
+}
+
+
+img:hover {
+ /* transitions */
+}
+
+
+/* ===============================
+  LINKS / BUTTONS
+  =============================== */
+main a {
+ /* button styles */
+}
+
+
+main a:hover {
+ /* hover styles */
+}
+
+
+/* ===============================
+  FLEXBOX COMPONENTS
+  =============================== */
+.flex-cards {
+ display: flex;
+ flex-wrap: wrap;
+ /* alignment, spacing */
+}
+
+
+.flex-card {
+ /* card styles */
+}
+
+
+.flex-card:hover {
+ /* hover effects */
+}
+
+
+/* ===============================
+  FOOTER
+  =============================== */
+.site-footer {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ /* background, padding */
+}
+
+
+.footer-logo {
+ /* font styling */
+}
+
+
+.footer-links {
+ display: flex;
+ gap: 15px;
+}
+
+
+.footer-links a {
+ /* link styles */
+}
+
+
+.footer-links a:hover {
+ /* hover styles */
+}

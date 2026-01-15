@@ -12,7 +12,7 @@
   BASE PAGE STYLES
   =============================== */
 body {
- /* font-family, background, text color */
+ font-family: 'Georgia', serif;
 }
 
 
@@ -23,6 +23,7 @@ body {
  display: flex;
  justify-content: space-between;
  align-items: center;
+ background-color: rgb(246, 150, 41);
  /* background-color, padding */
 }
 

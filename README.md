@@ -6,21 +6,14 @@
 
 
 ## Website Topic
-(What is your website about?)
+Informative, individual experience about people's data privacy rights, internet domain laws, and online privacy (specifically in California)
 
-
-Example:
-Data privacy, internet law, and online privacy in California.
 
 
 ---
 
 
 ## Target Audience
-(Who is this website for?)
-
-
-Example:
 Teenagers and young adults who use social media and the internet daily.
 
 
@@ -28,39 +21,60 @@ Teenagers and young adults who use social media and the internet daily.
 
 
 ## Statement of Purpose
-(Why does this website exist? 
-What do you want your audience to learn or understand after visiting?)
+I want my audience to walk away understanding how their personal information is collected, shared, and protected online—especially under California privacy laws—and to feel empowered to take control of their digital footprint.
 
-
-Write 2–3 sentences.
 
 
 ---
 
 
 ## Mission Statement
-(What is the long-term goal of this website or organization?)
+Our mission is to make data privacy simple and accessible for young people by breaking down complex laws, sharing real-life examples, and giving practical tools anyone can use to protect themselves online.
 
-
-Write 1–2 clear sentences starting with:
-“Our mission is to…”
 
 
 ---
 
 
 ## Content Overview
-(What main topics or sections will your website include?)
+California data privacy laws
+California Consumer Privacy Act (CCPA)
+California Privacy Rights Act (CPRA)
+Data access, deletion, and correction rights
+Do Not Sell My Data rules
+Data breaches & real case examples
+How websites track users
+Social media & minors’ data protection
 
+Topic 1: your digital footprint
+How companies collect your data
+What information about you is stored
+Real stories from teens
+Why privacy matters even if you think you have “nothing to hide”
 
-Example:
-- Homepage: introduction to data privacy
-- About page: explanation of privacy laws and why they matter
-- Resources page: helpful links and tools
+Topic 2: California privacy laws explained
+What rights you have under CCPA and CPRA
+How to request your data
+What “selling your data” means
+What companies are required by law to tell you
+
+Topic 3: protecting yourself online
+Easy privacy steps
+How to check app permissions
+Privacy settings on social media
+Avoiding data-harvesting sites
+Safe everyday browsing habits
+
 
 
 ---
 
 
 ## Notes
-(Optional: anything else you want to remember about this project)
+Color palette and fonts:
+#7D3CAF
+#303778
+#FFFDB
+Heading & sub heading: poppins? Impact?
+Body: georgia
+- Diagrams and stat charts???

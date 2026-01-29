@@ -3,8 +3,8 @@
   =============================== */
 * {
  box-sizing: border-box;
- margin: 0;
- padding: 0;
+ /* margin: 0;
+ padding: 0; */
 }
 
 
@@ -23,12 +23,14 @@ body {
  display: flex;
  justify-content: space-between;
  align-items: center;
- background-color: rgb(246, 150, 41);
+ background-color: rgb(168, 134, 96);
+ padding: 50px;
  /* background-color, padding */
 }
 
 
 .nav-logo {
+
  /* font-size, font-weight */
 }
 
@@ -40,12 +42,18 @@ body {
 
 
 .nav-links a {
+  display: inline-block;
+    color: #ffffff;
+    background-color: #424064a1;
+    padding: 15px 20px;
+    border-radius: 10px;
+    text-decoration: none;
  /* link / button styles */
 }
 
 
 .nav-links a:hover {
- /* hover effects */
+  color: #84715e;
 }
 
 
@@ -53,17 +61,27 @@ body {
   HERO SECTION
   =============================== */
 .hero {
+  margin: 20px; 
+  padding: 15px;
+  display: grid; place-items: center;
  /* background, padding, alignment */
 }
 
 
 .hero h1,
 .hero h2 {
+  display: block;
+  font-size: 300%;
+    width: 70%;
+    text-align: center;
  /* heading styles */
 }
 
 
 .hero p {
+  display: block;
+    width: 50%;
+    text-align: center;
  /* subtitle text */
 }
 
@@ -72,6 +90,9 @@ body {
   MAIN CONTENT
   =============================== */
 #main-content {
+  padding: 15px;
+  margin: 15px;
+  border: 3px solid rgb(104, 97, 112);
  /* width, padding, margin */
 }
 
@@ -79,8 +100,19 @@ body {
 /* ===============================
   SECTIONS
   =============================== */
-.list-container {
+.list-container p {
+  display: flex;
+  padding: 15px;
+  width: 50%;
+  justify-content: center; 
+  align-items: center; 
  /* background, spacing, layout */
+}
+
+#homepageBtn {
+  display: flex;
+justify-content: center; 
+  align-items: center; 
 }
 
 
